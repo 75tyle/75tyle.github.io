@@ -15,6 +15,7 @@ console.log(firstname,lastname,age,isMarried)
 1.primitive datatype
 2.non-primitive datatype
 
+/fake changes
 
 -1.primitive datatypes
    
